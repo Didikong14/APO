@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "mzapo_regs.h": "c",
+        "random": "c",
+        "draw_px_or_char.h": "c",
+        "font_types.h": "c",
+        "utils.h": "c",
+        "powerup.h": "c",
+        "stdbool.h": "c",
+        "mzapo_parlcd.h": "c",
+        "mzapo_phys.h": "c",
+        "stdint.h": "c",
+        "bullet.h": "c"
+    }
+}
