@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SpaceDuel - APO Project
 https://youtube.com/shorts/CVpFpAqUA3E
 
@@ -33,12 +32,3 @@ SpaceDuel is a two-player spaceship battle game developed for the MicroZed-based
 
 # License
 This project was created as part of the APO course assignment. Hardware interface files by Petr Porazil (PiKRON) and Pavel Pisa.
-=======
-A project for a subject APO,
-here is a video that is demonstrating what this is about
-
-https://youtube.com/shorts/CVpFpAqUA3E
-
-
-[APO.docx](https://github.com/user-attachments/files/18923722/APO.docx)
->>>>>>> 0917d133dd8e2d3d4c5dcd6531d01780e87d66e3
